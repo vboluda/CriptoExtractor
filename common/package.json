@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Common modules for cryptostractor",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "mongodb"
+  ],
+  "author": "Vicente Boluda Vias",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "winston": "^3.2.1"
+  }
+}

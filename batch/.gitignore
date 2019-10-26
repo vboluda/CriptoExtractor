@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+common/node_modules/
+batch/node_modules/
+cryptoextractor_workspace.code-workspace

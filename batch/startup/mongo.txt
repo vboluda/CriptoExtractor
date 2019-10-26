@@ -1,0 +1,11 @@
+use cryptos
+
+db.createUser({
+      user: "crypto",
+      pwd: "crypto01api!",
+      roles: [
+                { role: "userAdmin", db: "cryptos" },
+                { role: "dbAdmin",   db: "cryptos" },
+                { role: "readWrite", db: "cryptos" }
+             ]
+  });
