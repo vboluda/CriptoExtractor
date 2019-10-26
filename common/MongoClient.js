@@ -1,12 +1,13 @@
 var MongoClient = require('mongodb').MongoClient;
-const conf=require("../config");
+//const conf=require("../config").mongo;
+const {mongo, currencies } = require("../config");
+
 var _log=require("./wlogger");
 
 class MongoConnector {
 
-    constructor(conf){
-        this.conf= conf || {};
-        this.mongoUrl=`mongodb://${conf.ip}:${conf.port}/`;
+    constructor(){
+        this.mongoUrl=`mongodb://${mongo.ip}:${mongo.port}/`;
         this.mongo=null;
     }
 
@@ -27,22 +28,28 @@ class MongoConnector {
             var mongoElement={timestamp:(new Date()),crypto:[]};
             data.forEach((crypto) =>{
                 _log.debug(`[${crypto.name}]:${crypto.quote.EUR.price}`);
-                if(conf.currencies.includes(crypto.symbol)){
+                if(currencies.includes(crypto.symbol)){
                     var obj={
-                        _id:crypto.id,
-                        symbol:crypto.symbol,
-                        name:crypto.name,
-                        price:crypto.quote.EUR.price
+                        crId:crypto.id,
+                        crSymbol:crypto.symbol,
+                        crName:crypto.name,
+                        crPrice:crypto.quote.EUR.price
                     };
                     mongoElement.crypto.push(obj);
                 }
-                //var res= conn.db("cryptos").collection("prices").insertMany
             });
             var res= conn.db("cryptos").collection("prices").insertOne(mongoElement);
             _log.debug('End Processing crypto data');
         },function(err){
             //_log.debug('API call error:', err);
         });
+    }
+
+    async getCrypto(){
+        var conn=await this.connection();
+        let tm=new Date(new Date()-mongo.timeresults);
+        _log.debug(`Getting crypto data newer than ${tm}`);
+        return conn.db("cryptos").collection("prices").find({timestamp:{$gt : tm}});
     }
 }
 

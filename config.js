@@ -4,8 +4,12 @@ module.exports={
   mongo:{
       port:27017,
       ip:"192.168.1.108",
-      user:"crypto",
-      password:"crypto01api!"
+      timeresults: 100*60*1000 //100 min in millis
+  },
+  redis:{
+    port:6379,
+    ip:"192.168.1.108",
+    expire: 60
   },
   currencies:["BTC","ETH","BCH"],
   cron:"01 * * * * *",

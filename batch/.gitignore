@@ -2,5 +2,7 @@ node_modules/
 .vscode/
 common/node_modules/
 batch/node_modules/
+api/node_modules/
 cryptoextractor_workspace.code-workspace
-
+logs/
+Backend Def.pdf

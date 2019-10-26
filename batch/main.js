@@ -8,7 +8,7 @@ var _log=require("../common/wlogger");
 
 _log.info("--- Start application ---");
 var apicall=new ApiCall(conf.thirdpartyapi);
-var mongo=new Mongo(conf.mongo);
+var mongo=new Mongo();
 
 new cron(conf.cron,() =>{
     let stime=Date.now();
