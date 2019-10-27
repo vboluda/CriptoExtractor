@@ -1,0 +1,1 @@
+swagger-codegen generate -i api/controllers/swagger.yaml -l html2 -o apiDoc.html
