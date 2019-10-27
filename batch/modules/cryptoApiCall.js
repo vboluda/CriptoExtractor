@@ -1,3 +1,5 @@
+"use strict";
+
 const rp = require('request-promise');
 var _log=require("../../common/wlogger");
 

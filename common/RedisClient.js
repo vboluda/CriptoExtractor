@@ -1,3 +1,5 @@
+"use strict";
+
 const conf = require("../config");
 var _log=require("./wlogger");
 var redisClient = require('redis');

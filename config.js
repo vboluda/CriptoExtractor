@@ -11,6 +11,10 @@ module.exports={
     ip:"192.168.1.108",
     expire: 60
   },
+  server:{
+    port:10010,
+    wsInterval: 1000
+  },
   currencies:["BTC","ETH","BCH"],
   cron:"01 * * * * *",
   thirdpartyapi:{

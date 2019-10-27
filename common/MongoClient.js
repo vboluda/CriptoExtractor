@@ -1,3 +1,5 @@
+"use strict";
+
 var MongoClient = require('mongodb').MongoClient;
 //const conf=require("../config").mongo;
 const {mongo, currencies } = require("../config");

@@ -1,4 +1,4 @@
-
+"use strict";
 // Get configuration file
 const conf=require("../config");
 var cron=require("cron").CronJob;
