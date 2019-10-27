@@ -10,7 +10,10 @@ var conf=require("../config");
 var socket=require("socket.io");
 const dataProvider=require("../common/dataProvider");
 var provider=new dataProvider();
+const batch=require("../batch/mainBatch");
 
+//Execute batch
+batch();
 
 var config = {
   appRoot: __dirname // required config
@@ -18,6 +21,7 @@ var config = {
 
 //VBVB Added to serve static content
 app.use(express.static("./static/",{}));
+
 
 
 SwaggerExpress.create(config, function(err, swaggerExpress) {

@@ -11521,3 +11521,800 @@
 {"message":"Getting crypto data newer than Sun Oct 27 2019 12:14:16 GMT+0100 (Hora estándar romance)","level":"debug"}
 {"message":"REDIS: Inserting new entry","level":"debug"}
 {"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:28 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:29 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:30 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:31 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:32 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:33 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:34 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:35 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:36 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:37 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:38 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:39 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:40 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:44 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:45 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:46 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:47 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:48 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:49 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Called crypto API","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:49 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"WS connection stablished4OEUQrLMgGIMjG5VAAAA","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:50 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:51 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:52 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:53 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:54 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:55 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:56 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:57 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:58 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:17:59 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:00 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 19 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:01 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8615.9357377377","level":"debug"}
+{"message":"[Ethereum]:166.45287771970294","level":"debug"}
+{"message":"[XRP]:0.26764092513138144","level":"debug"}
+{"message":"[Bitcoin Cash]:237.71126962532583","level":"debug"}
+{"message":"[Tether]:0.8977203616878999","level":"debug"}
+{"message":"[Litecoin]:55.583578277412286","level":"debug"}
+{"message":"[EOS]:3.073586277626945","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:02 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:03 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:04 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:06 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:07 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:08 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:09 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:10 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:11 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:14 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:15 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:16 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:17 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:18 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:19 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:20 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:21 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:22 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:23 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:24 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:25 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:26 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:27 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:28 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:29 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:30 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:31 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:32 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:33 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:34 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:35 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:36 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:37 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:38 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:39 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:40 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:44 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:45 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:46 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:47 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:48 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:49 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:50 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:51 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:52 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:53 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:54 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:55 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:56 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:57 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:58 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:18:59 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:00 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 6 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8660.250237726765","level":"debug"}
+{"message":"[Ethereum]:165.7424571693581","level":"debug"}
+{"message":"[XRP]:0.2666985316183124","level":"debug"}
+{"message":"[Bitcoin Cash]:236.95671855285482","level":"debug"}
+{"message":"[Tether]:0.8898947782790296","level":"debug"}
+{"message":"[Litecoin]:55.40816223306156","level":"debug"}
+{"message":"[EOS]:3.0667911560612433","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:01 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:02 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:03 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:04 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:06 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:07 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:08 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:09 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:10 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:11 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:14 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:15 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:16 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:17 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:18 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:19 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:20 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:21 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:22 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:23 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:24 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:25 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:26 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:27 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:28 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:29 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:30 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:31 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:32 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:33 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:34 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:35 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:36 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:37 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:38 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:39 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:40 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:44 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:45 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:46 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:47 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:48 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:49 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:50 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:51 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:52 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:53 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:54 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:55 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:56 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:57 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:58 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:19:59 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Sun Oct 27 2019 16:20:00 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
