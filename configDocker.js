@@ -3,7 +3,7 @@ module.exports={
   port:3000,
   mongo:{
       port:27017,
-      ip:"192.168.1.108",
+      ip:"mongo",
       timeresults: 100*60*1000 //100 min in millis
   },
   redis:{

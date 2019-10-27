@@ -1,10 +1,12 @@
 # DOCKERFILE
 
-FROM node
+FROM node:10
 
 RUN mkdir -p /opt/app
 
 WORKDIR /opt/app
+
+RUN npm install nodemon -g
 
 #COPY&INSTALL PROJECTS
 COPY . .
@@ -19,6 +21,9 @@ RUN npm install
 RUN cd ..
 
 EXPOSE 10010
-CMD node prueba.js
+CMD nodemon api/app.js
 
-RUN mkdir logs
+RUN mkdir -p logs
+
+
+

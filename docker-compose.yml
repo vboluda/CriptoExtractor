@@ -1,0 +1,14 @@
+version: "2"
+services:
+  crypto:
+    build: .
+    ports:
+      — "10010:10010"
+    depends_on:
+      — mongo
+  mongo:
+    image: mongo
+    ports:
+      — "27017:27017"
+    volumes:
+      - mongodata:/data/db
