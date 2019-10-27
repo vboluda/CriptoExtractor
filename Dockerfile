@@ -2,28 +2,28 @@
 
 FROM node:10
 
-RUN mkdir -p /opt/app
+RUN mkdir -p /app
 
-WORKDIR /opt/app
+WORKDIR /app
 
 RUN npm install nodemon -g
 
 #COPY&INSTALL PROJECTS
 COPY . .
-RUN cd api
+
+WORKDIR /app/api
 RUN npm install
-RUN cd ..
-RUN cd batch
+WORKDIR /app/batch
 RUN npm install
-RUN cd ..
-RUN cd common
+WORKDIR /app/common
 RUN npm install
-RUN cd ..
+
+WORKDIR /app
+COPY configDocker.js config.js
 
 EXPOSE 10010
 CMD nodemon api/app.js
 
 RUN mkdir -p logs
 
-
-
+RUN node --version
