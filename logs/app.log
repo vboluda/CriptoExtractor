@@ -13049,3 +13049,138 @@
 {"message":"[EOS]:3.037464731894664","level":"debug"}
 {"message":"End Processing crypto data","level":"debug"}
 {"message":"Error in redis client creation: Error: Redis connection to 192.168.1.108:6379 failed - connect ECONNREFUSED 192.168.1.108:6379","level":"error"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 5 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8738.882132758705","level":"debug"}
+{"message":"[Ethereum]:168.20613252002033","level":"debug"}
+{"message":"[XRP]:0.2697163443081821","level":"debug"}
+{"message":"[Bitcoin Cash]:236.93802945988716","level":"debug"}
+{"message":"[Tether]:0.9066938330139083","level":"debug"}
+{"message":"[Litecoin]:54.8324988387722","level":"debug"}
+{"message":"[EOS]:3.0380454984575795","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Error in redis client creation: Error: Redis connection to 192.168.1.108:6379 failed - connect ECONNREFUSED 192.168.1.108:6379","level":"error"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8694.188967268574","level":"debug"}
+{"message":"[Ethereum]:168.62825301554378","level":"debug"}
+{"message":"[XRP]:0.26987672904080023","level":"debug"}
+{"message":"[Bitcoin Cash]:236.78412900569413","level":"debug"}
+{"message":"[Tether]:0.9085946873189211","level":"debug"}
+{"message":"[Litecoin]:54.779215677132534","level":"debug"}
+{"message":"[EOS]:3.0462281218107505","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 3 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8694.447739723844","level":"debug"}
+{"message":"[Ethereum]:168.53473546629445","level":"debug"}
+{"message":"[XRP]:0.26984605931981337","level":"debug"}
+{"message":"[Bitcoin Cash]:237.1376076708901","level":"debug"}
+{"message":"[Tether]:0.9075881851825103","level":"debug"}
+{"message":"[Litecoin]:54.81100170400602","level":"debug"}
+{"message":"[EOS]:3.049519449032872","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Error in redis client creation: Error: Redis connection to 192.168.1.108:6379 failed - connect ECONNREFUSED 192.168.1.108:6379","level":"error"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8693.751246905458","level":"debug"}
+{"message":"[Ethereum]:168.5674200686438","level":"debug"}
+{"message":"[XRP]:0.2696773507495708","level":"debug"}
+{"message":"[Bitcoin Cash]:237.01798390940985","level":"debug"}
+{"message":"[Tether]:0.9077583685074163","level":"debug"}
+{"message":"[Litecoin]:54.8477323467327","level":"debug"}
+{"message":"[EOS]:3.0478426215311796","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8689.547008073754","level":"debug"}
+{"message":"[Ethereum]:168.4952178534059","level":"debug"}
+{"message":"[XRP]:0.26948100001064335","level":"debug"}
+{"message":"[Bitcoin Cash]:236.94771728009306","level":"debug"}
+{"message":"[Tether]:0.9063830364261838","level":"debug"}
+{"message":"[Litecoin]:54.81989308563536","level":"debug"}
+{"message":"[EOS]:3.048916159708185","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 3 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8698.979125601754","level":"debug"}
+{"message":"[Ethereum]:168.4832049493211","level":"debug"}
+{"message":"[XRP]:0.2695298705614288","level":"debug"}
+{"message":"[Bitcoin Cash]:236.94491457846877","level":"debug"}
+{"message":"[Tether]:0.906531184315787","level":"debug"}
+{"message":"[Litecoin]:54.77700809584338","level":"debug"}
+{"message":"[EOS]:3.0516283797487884","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Error in redis client creation: Error: Redis connection to 192.168.1.108:6379 failed - connect ECONNREFUSED 192.168.1.108:6379","level":"error"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 4 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8677.743834676332","level":"debug"}
+{"message":"[Ethereum]:168.4983545839803","level":"debug"}
+{"message":"[XRP]:0.26938428952547344","level":"debug"}
+{"message":"[Bitcoin Cash]:236.82658080926296","level":"debug"}
+{"message":"[Tether]:0.9072663724320283","level":"debug"}
+{"message":"[Litecoin]:54.73965108374685","level":"debug"}
+{"message":"[EOS]:3.0511349908481233","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 3 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8676.223004982972","level":"debug"}
+{"message":"[Ethereum]:168.4814984602133","level":"debug"}
+{"message":"[XRP]:0.2692182863961074","level":"debug"}
+{"message":"[Bitcoin Cash]:236.6700425158109","level":"debug"}
+{"message":"[Tether]:0.9067933740170496","level":"debug"}
+{"message":"[Litecoin]:54.72069133899669","level":"debug"}
+{"message":"[EOS]:3.052367078561542","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8678.184198279054","level":"debug"}
+{"message":"[Ethereum]:168.39356501639733","level":"debug"}
+{"message":"[XRP]:0.2690833486011649","level":"debug"}
+{"message":"[Bitcoin Cash]:236.99650900089804","level":"debug"}
+{"message":"[Tether]:0.906926672193103","level":"debug"}
+{"message":"[Litecoin]:54.71853523893349","level":"debug"}
+{"message":"[EOS]:3.0510411653466503","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 6 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8678.08631274079","level":"debug"}
+{"message":"[Ethereum]:168.24793630742403","level":"debug"}
+{"message":"[XRP]:0.26895889301114195","level":"debug"}
+{"message":"[Bitcoin Cash]:236.64380519943717","level":"debug"}
+{"message":"[Tether]:0.9069038558886958","level":"debug"}
+{"message":"[Litecoin]:54.714088386140574","level":"debug"}
+{"message":"[EOS]:3.046709268661802","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8672.334276414605","level":"debug"}
+{"message":"[Ethereum]:168.18457055173505","level":"debug"}
+{"message":"[XRP]:0.26895338752222014","level":"debug"}
+{"message":"[Bitcoin Cash]:236.13630779031405","level":"debug"}
+{"message":"[Tether]:0.9066154388316913","level":"debug"}
+{"message":"[Litecoin]:54.68068033148993","level":"debug"}
+{"message":"[EOS]:3.0462302380322646","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}

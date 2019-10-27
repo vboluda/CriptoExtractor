@@ -8,7 +8,7 @@ module.exports={
   },
   redis:{
     port:6379,
-    ip:"redis-server",
+    ip:"redis",
     expire: 60
   },
   server:{
