@@ -18,7 +18,7 @@ spec:
         io.kompose.service: crypto
     spec:
       containers:
-      - image: crypto
+      - image: gcr.io/cryptoextractor-257309/crypto
         name: crypto
         ports:
         - containerPort: 10010
