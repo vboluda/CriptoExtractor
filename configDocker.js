@@ -2,9 +2,9 @@
 module.exports={
   port:3000,
   mongo:{
-      port:27017,
-      ip:"mongo",
-      timeresults: 100*60*1000 //100 min in millis
+    port:27017,
+    ip:"mongo",
+    timeresults: 100*60*1000 //100 min in millis
   },
   redis:{
     port:6379,
@@ -18,7 +18,7 @@ module.exports={
   currencies:["BTC","ETH","BCH"],
   cron:{
     dataUpdate:"01 * * * * *",
-    mailSend:"* 59 * * * *"
+    mailSend:"05 44 * * * *"
   },
   thirdpartyapi:{
       method: 'GET',
@@ -43,7 +43,7 @@ module.exports={
       }
     },
     from:"vicente.boludavias@gmail.com",
-    to:"errenosaque@gmail.com"
-
+    to:["vicente.boludavias@gmail.com"],
+    title: "INFORMACIÓN DE CRIPTODIVISAS / CRYPTOCURRENCY INFORMATION"
   }
 }
