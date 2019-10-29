@@ -16,7 +16,10 @@ module.exports={
     wsInterval: 30000
   },
   currencies:["BTC","ETH","BCH"],
-  cron:"01 * * * * *",
+  cron:{
+    dataUpdate:"01 * * * * *",
+    mailSend:"* 59 * * * *"
+  },
   thirdpartyapi:{
       method: 'GET',
       uri: 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest',
@@ -30,5 +33,17 @@ module.exports={
       },
       json: true,
       gzip: true
+  },
+  mailer:{
+    transport:{
+      service: 'gmail',
+      auth: {
+        user: 'sferesafetymodule@gmail.com',
+        pass: 'Getronics2019!'
+      }
+    },
+    from:"vicente.boludavias@gmail.com",
+    to:"errenosaque@gmail.com"
+
   }
 }

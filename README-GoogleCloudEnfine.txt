@@ -1,6 +1,11 @@
 DEPLOY CRYPTO APP GOOGLE CLOUD ENGINE
 -------------------------------------
 
+#  Create new cluster:
+#       Name:cr-cluster
+#       Zone: europe-west2-b
+
+FALTA EL COMANDO GIT CLONE ...
 
 gcloud config set project cryptoextractor-257309
 gcloud container clusters get-credentials  cr-cluster --zone europe-west2-b
@@ -31,7 +36,7 @@ kubectl get service -o wide
 kubectl delete svc crypto
 
 #STOP APP
-kubectl scale --replicas=0 deployment/crypto-68d4dd9857-frdx7
+kubectl scale --replicas=0 deployment/crypto
 
 #RESTART APP
-kubectl scale --replicas=0 deployment/crypto-68d4dd9857-frdx7
+kubectl scale --replicas=0 deployment/crypto
