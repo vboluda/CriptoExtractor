@@ -5,8 +5,6 @@ DEPLOY CRYPTO APP GOOGLE CLOUD ENGINE
 #       Name:cr-cluster
 #       Zone: europe-west2-b
 
-FALTA EL COMANDO GIT CLONE ...
-
 gcloud config set project cryptoextractor-257309
 gcloud container clusters get-credentials  cr-cluster --zone europe-west2-b
 
