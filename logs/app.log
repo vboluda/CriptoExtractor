@@ -13601,3 +13601,715 @@
 {"message":"--- END MAIL --- (in 3 millis)","level":"info"}
 {"message":"---  START MAIL ---","level":"info"}
 {"message":"--- END MAIL --- (in 2 millis)","level":"info"}
+{"message":"Email sent: 250 2.0.0 OK  1572373122 q6sm17068624wrx.30 - gsmtp","level":"info"}
+{"message":"Email sent: 250 2.0.0 OK  1572373336 z9sm16637730wrv.1 - gsmtp","level":"info"}
+{"message":"Email sent: 250 2.0.0 OK  1572373398 l22sm30274562wrb.45 - gsmtp","level":"info"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 22 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8445.000686775342","level":"debug"}
+{"message":"[Ethereum]:168.45483755244135","level":"debug"}
+{"message":"[XRP]:0.2710993714997105","level":"debug"}
+{"message":"[Bitcoin Cash]:260.5348911637008","level":"debug"}
+{"message":"[Tether]:0.9021651590719143","level":"debug"}
+{"message":"[Litecoin]:53.628525972308324","level":"debug"}
+{"message":"[Binance Coin]:18.52182165189767","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:02:23 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:02:53 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:04:49 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 5 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:00 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 19 millis)","level":"info"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:01 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8444.629774047005","level":"debug"}
+{"message":"[Ethereum]:168.56737267080086","level":"debug"}
+{"message":"[XRP]:0.27090089399337186","level":"debug"}
+{"message":"[Bitcoin Cash]:260.5275587116442","level":"debug"}
+{"message":"[Tether]:0.9023936846247452","level":"debug"}
+{"message":"[Litecoin]:53.57740704609968","level":"debug"}
+{"message":"[Binance Coin]:18.52363936553532","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 0 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:02 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:03 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:04 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 3 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 1 millis)","level":"info"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:06 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 1 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:07 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 2 millis)","level":"info"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:08 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 2 millis)","level":"info"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:09 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 3 millis)","level":"info"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 3 millis)","level":"info"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:05:14 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:06:40 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 20 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8450.358143066915","level":"debug"}
+{"message":"[Ethereum]:168.55886984225967","level":"debug"}
+{"message":"[XRP]:0.2709376547719725","level":"debug"}
+{"message":"[Bitcoin Cash]:259.80674242805225","level":"debug"}
+{"message":"[Tether]:0.9020978886194433","level":"debug"}
+{"message":"[Litecoin]:53.583693167531194","level":"debug"}
+{"message":"[Binance Coin]:18.56090049137721","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:07:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:07:09 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:07:39 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 6 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8449.139604487826","level":"debug"}
+{"message":"[Ethereum]:168.5688140977745","level":"debug"}
+{"message":"[XRP]:0.27091582937875514","level":"debug"}
+{"message":"[Bitcoin Cash]:259.81501798137384","level":"debug"}
+{"message":"[Tether]:0.9022527764872325","level":"debug"}
+{"message":"[Litecoin]:53.5756176126469","level":"debug"}
+{"message":"[Binance Coin]:18.540577596309365","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:08:09 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:08:39 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:09:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 19 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8446.792323472328","level":"debug"}
+{"message":"[Ethereum]:168.56095448085082","level":"debug"}
+{"message":"[XRP]:0.2708998567527786","level":"debug"}
+{"message":"[Bitcoin Cash]:259.3170734980674","level":"debug"}
+{"message":"[Tether]:0.9034139665586524","level":"debug"}
+{"message":"[Litecoin]:53.56530379354513","level":"debug"}
+{"message":"[Binance Coin]:18.537718605793945","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:10:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:10:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 5 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8449.038599487083","level":"debug"}
+{"message":"[Ethereum]:168.5635312012577","level":"debug"}
+{"message":"[XRP]:0.2709704689094218","level":"debug"}
+{"message":"[Bitcoin Cash]:258.79769334417483","level":"debug"}
+{"message":"[Tether]:0.9028799075437544","level":"debug"}
+{"message":"[Litecoin]:53.55970348549749","level":"debug"}
+{"message":"[Binance Coin]:18.529006228603976","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:11:12 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:11:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 4 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8453.45151341677","level":"debug"}
+{"message":"[Ethereum]:168.54993686979535","level":"debug"}
+{"message":"[XRP]:0.2711021062097354","level":"debug"}
+{"message":"[Bitcoin Cash]:258.90084262231437","level":"debug"}
+{"message":"[Tether]:0.9028266144587928","level":"debug"}
+{"message":"[Litecoin]:53.58145991290745","level":"debug"}
+{"message":"[Binance Coin]:18.54555988684647","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:12:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:12:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 4 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8451.470689262747","level":"debug"}
+{"message":"[Ethereum]:168.5658021422547","level":"debug"}
+{"message":"[XRP]:0.27112470391450316","level":"debug"}
+{"message":"[Bitcoin Cash]:258.9605753533871","level":"debug"}
+{"message":"[Tether]:0.9028069725565225","level":"debug"}
+{"message":"[Litecoin]:53.57447235109499","level":"debug"}
+{"message":"[Binance Coin]:18.53995252635047","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:13:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 10 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8451.75072718644","level":"debug"}
+{"message":"[Ethereum]:168.46204461963964","level":"debug"}
+{"message":"[XRP]:0.2710850681878643","level":"debug"}
+{"message":"[Bitcoin Cash]:259.0498381182447","level":"debug"}
+{"message":"[Tether]:0.902579952373301","level":"debug"}
+{"message":"[Litecoin]:53.58242333808136","level":"debug"}
+{"message":"[Binance Coin]:18.522053403471304","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 3 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:14:06 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:14:17 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 31 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8448.046961196505","level":"debug"}
+{"message":"[Ethereum]:168.44211319661983","level":"debug"}
+{"message":"[XRP]:0.2709740814458568","level":"debug"}
+{"message":"[Bitcoin Cash]:258.8478685763734","level":"debug"}
+{"message":"[Tether]:0.9034906221490456","level":"debug"}
+{"message":"[Litecoin]:53.55235136430753","level":"debug"}
+{"message":"[Binance Coin]:18.537828770093913","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 5 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:15:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Generated: Información sobre el estado de las criptomonedas\nPrueba realizada para bit2me.com\nTIMESTAMP\t\t\tBitcoin\tEthereum\tBitcoin Cash\n-------------------------------------------------------------------------------------------------\n1572374522452\t\t\t8445.000686775342\t168.45483755244135\t260.5348911637008\n1572374701417\t\t\t8444.629774047005\t168.56737267080086\t260.5275587116442\n1572374822206\t\t\t8450.358143066915\t168.55886984225967\t259.80674242805225\n1572374881331\t\t\t8449.139604487826\t168.5688140977745\t259.81501798137384\n1572375001378\t\t\t8446.792323472328\t168.56095448085082\t259.3170734980674\n1572375061473\t\t\t8449.038599487083\t168.5635312012577\t258.79769334417483\n1572375121204\t\t\t8453.45151341677\t168.54993686979535\t258.90084262231437\n1572375181350\t\t\t8451.470689262747\t168.5658021422547\t258.9605753533871\n1572375242260\t\t\t8451.75072718644\t168.46204461963964\t259.0498381182447\n1572375301657\t\t\t8448.046961196505\t168.44211319661983\t258.8478685763734\n","level":"debug"}
+{"message":"Email sent: 250 2.0.0 OK  1572375306 y3sm22357100wro.36 - gsmtp","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:15:29 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 26 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8426.796988186945","level":"debug"}
+{"message":"[Ethereum]:168.2960263240078","level":"debug"}
+{"message":"[XRP]:0.27011968363073746","level":"debug"}
+{"message":"[Bitcoin Cash]:258.392149370901","level":"debug"}
+{"message":"[Tether]:0.9021389584509701","level":"debug"}
+{"message":"[Litecoin]:53.34377169544879","level":"debug"}
+{"message":"[Binance Coin]:18.4663903088082","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:36:03 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 7 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:36:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 13 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8436.071296658265","level":"debug"}
+{"message":"[Ethereum]:168.4161146654514","level":"debug"}
+{"message":"[XRP]:0.2699475709862941","level":"debug"}
+{"message":"[Bitcoin Cash]:257.9783856299387","level":"debug"}
+{"message":"[Tether]:0.9013663289903306","level":"debug"}
+{"message":"[Litecoin]:53.37471170051141","level":"debug"}
+{"message":"[Binance Coin]:18.465900050639306","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 8 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:42:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Generated: Información sobre el estado de las criptomonedas\nPrueba realizada para bit2me.com\n\nTIMESTAMP\t\t\tBitcoin\t\tEthereum\tBitcoin Cash\n-----------------------------------------------------------------------------------------------------------------------------------\nTue Oct 29 2019 19:42:02 GMT+0100 (Hora estándar romance)\t\t\t8445.000686775342\t168.45483755244135\t260.5348911637008\nTue Oct 29 2019 19:45:01 GMT+0100 (Hora estándar romance)\t\t\t8444.629774047005\t168.56737267080086\t260.5275587116442\nTue Oct 29 2019 19:47:02 GMT+0100 (Hora estándar romance)\t\t\t8450.358143066915\t168.55886984225967\t259.80674242805225\nTue Oct 29 2019 19:48:01 GMT+0100 (Hora estándar romance)\t\t\t8449.139604487826\t168.5688140977745\t259.81501798137384\nTue Oct 29 2019 19:50:01 GMT+0100 (Hora estándar romance)\t\t\t8446.792323472328\t168.56095448085082\t259.3170734980674\nTue Oct 29 2019 19:51:01 GMT+0100 (Hora estándar romance)\t\t\t8449.038599487083\t168.5635312012577\t258.79769334417483\nTue Oct 29 2019 19:52:01 GMT+0100 (Hora estándar romance)\t\t\t8453.45151341677\t168.54993686979535\t258.90084262231437\nTue Oct 29 2019 19:53:01 GMT+0100 (Hora estándar romance)\t\t\t8451.470689262747\t168.5658021422547\t258.9605753533871\nTue Oct 29 2019 19:54:02 GMT+0100 (Hora estándar romance)\t\t\t8451.75072718644\t168.46204461963964\t259.0498381182447\nTue Oct 29 2019 19:55:01 GMT+0100 (Hora estándar romance)\t\t\t8448.046961196505\t168.44211319661983\t258.8478685763734\nTue Oct 29 2019 20:16:01 GMT+0100 (Hora estándar romance)\t\t\t8426.796988186945\t168.2960263240078\t258.392149370901\nTue Oct 29 2019 20:22:01 GMT+0100 (Hora estándar romance)\t\t\t8436.071296658265\t168.4161146654514\t257.9783856299387\n","level":"debug"}
+{"message":"Email sent: 250 2.0.0 OK  1572376926 u1sm14911269wrp.56 - gsmtp","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:42:23 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 18:42:53 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8431.981504907631","level":"debug"}
+{"message":"[Ethereum]:168.5122927297729","level":"debug"}
+{"message":"[XRP]:0.27007491976433845","level":"debug"}
+{"message":"[Bitcoin Cash]:257.9366238112369","level":"debug"}
+{"message":"[Tether]:0.901482946904019","level":"debug"}
+{"message":"[Litecoin]:53.37775379225065","level":"debug"}
+{"message":"[Binance Coin]:18.479991955343316","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 22 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8371.316274370143","level":"debug"}
+{"message":"[Ethereum]:168.83568370112218","level":"debug"}
+{"message":"[XRP]:0.2701429330465578","level":"debug"}
+{"message":"[Bitcoin Cash]:257.18199710868106","level":"debug"}
+{"message":"[Tether]:0.9103109681881568","level":"debug"}
+{"message":"[Litecoin]:53.01971097998869","level":"debug"}
+{"message":"[Binance Coin]:18.510980361247757","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 0 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:05:06 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Generated: Información sobre el estado de las criptomonedas\nPrueba realizada para bit2me.com\n\nTIMESTAMP\t\t\tBitcoin\t\tEthereum\tBitcoin Cash\n-----------------------------------------------------------------------------------------------------------------------------------\n2019-10-29 18:42:02\t\t\t8445.000686775342\t168.45483755244135\t260.5348911637008\n2019-10-29 18:45:01\t\t\t8444.629774047005\t168.56737267080086\t260.5275587116442\n2019-10-29 18:47:02\t\t\t8450.358143066915\t168.55886984225967\t259.80674242805225\n2019-10-29 18:48:01\t\t\t8449.139604487826\t168.5688140977745\t259.81501798137384\n2019-10-29 18:50:01\t\t\t8446.792323472328\t168.56095448085082\t259.3170734980674\n2019-10-29 18:51:01\t\t\t8449.038599487083\t168.5635312012577\t258.79769334417483\n2019-10-29 18:52:01\t\t\t8453.45151341677\t168.54993686979535\t258.90084262231437\n2019-10-29 18:53:01\t\t\t8451.470689262747\t168.5658021422547\t258.9605753533871\n2019-10-29 18:54:02\t\t\t8451.75072718644\t168.46204461963964\t259.0498381182447\n2019-10-29 18:55:01\t\t\t8448.046961196505\t168.44211319661983\t258.8478685763734\n2019-10-29 19:16:01\t\t\t8426.796988186945\t168.2960263240078\t258.392149370901\n2019-10-29 19:22:01\t\t\t8436.071296658265\t168.4161146654514\t257.9783856299387\n2019-10-29 19:23:01\t\t\t8431.981504907631\t168.5122927297729\t257.9366238112369\n2019-10-29 19:45:02\t\t\t8371.316274370143\t168.83568370112218\t257.18199710868106\n","level":"debug"}
+{"message":"Email sent: 250 2.0.0 OK  1572378308 37sm26766001wrc.96 - gsmtp","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:05:10 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:05:40 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:08:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 15 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8328.752371103496","level":"debug"}
+{"message":"[Ethereum]:168.12256596268614","level":"debug"}
+{"message":"[XRP]:0.2694659942711771","level":"debug"}
+{"message":"[Bitcoin Cash]:258.6217052384434","level":"debug"}
+{"message":"[Tether]:0.9041432699452564","level":"debug"}
+{"message":"[Litecoin]:52.857633828551116","level":"debug"}
+{"message":"[EOS]:3.014651013525912","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:09:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 23 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8309.724885181198","level":"debug"}
+{"message":"[Ethereum]:168.13545031312205","level":"debug"}
+{"message":"[XRP]:0.26915500507353396","level":"debug"}
+{"message":"[Bitcoin Cash]:259.393515185236","level":"debug"}
+{"message":"[Tether]:0.9044514958703721","level":"debug"}
+{"message":"[Litecoin]:52.92121209032083","level":"debug"}
+{"message":"[Binance Coin]:18.19555273566883","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 5 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:10:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Generated: Información sobre el estado de las criptomonedas\nPrueba realizada para bit2me.com\n\nTIMESTAMP\t\t\t\tBitcoin\t\tEthereum\tBitcoin Cash\n-----------------------------------------------------------------------------------------------------------------------------------\n2019-10-29 18:42:02\t\t\t8445.000686775342\t168.45483755244135\t260.5348911637008\n2019-10-29 18:45:01\t\t\t8444.629774047005\t168.56737267080086\t260.5275587116442\n2019-10-29 18:47:02\t\t\t8450.358143066915\t168.55886984225967\t259.80674242805225\n2019-10-29 18:48:01\t\t\t8449.139604487826\t168.5688140977745\t259.81501798137384\n2019-10-29 18:50:01\t\t\t8446.792323472328\t168.56095448085082\t259.3170734980674\n2019-10-29 18:51:01\t\t\t8449.038599487083\t168.5635312012577\t258.79769334417483\n2019-10-29 18:52:01\t\t\t8453.45151341677\t168.54993686979535\t258.90084262231437\n2019-10-29 18:53:01\t\t\t8451.470689262747\t168.5658021422547\t258.9605753533871\n2019-10-29 18:54:02\t\t\t8451.75072718644\t168.46204461963964\t259.0498381182447\n2019-10-29 18:55:01\t\t\t8448.046961196505\t168.44211319661983\t258.8478685763734\n2019-10-29 19:16:01\t\t\t8426.796988186945\t168.2960263240078\t258.392149370901\n2019-10-29 19:22:01\t\t\t8436.071296658265\t168.4161146654514\t257.9783856299387\n2019-10-29 19:23:01\t\t\t8431.981504907631\t168.5122927297729\t257.9366238112369\n2019-10-29 19:45:02\t\t\t8371.316274370143\t168.83568370112218\t257.18199710868106\n2019-10-29 19:49:01\t\t\t8328.752371103496\t168.12256596268614\t258.6217052384434\n2019-10-29 19:50:01\t\t\t8309.724885181198\t168.13545031312205\t259.393515185236\n","level":"debug"}
+{"message":"Email sent: 250 2.0.0 OK  1572378606 t185sm4923092wmf.45 - gsmtp","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:10:11 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:10:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 5 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8310.608531141226","level":"debug"}
+{"message":"[Ethereum]:168.30560198415677","level":"debug"}
+{"message":"[XRP]:0.2688773323254382","level":"debug"}
+{"message":"[Bitcoin Cash]:260.0101076718522","level":"debug"}
+{"message":"[Tether]:0.9029050245235533","level":"debug"}
+{"message":"[Litecoin]:52.84925816458893","level":"debug"}
+{"message":"[EOS]:3.0130886855025714","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:11:11 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:11:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 3 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8318.92891589588","level":"debug"}
+{"message":"[Ethereum]:168.2582547808077","level":"debug"}
+{"message":"[XRP]:0.26888309388571124","level":"debug"}
+{"message":"[Bitcoin Cash]:259.54179259085265","level":"debug"}
+{"message":"[Tether]:0.9025216785959421","level":"debug"}
+{"message":"[Litecoin]:52.83383848753144","level":"debug"}
+{"message":"[EOS]:3.012600784747112","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:12:11 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:12:41 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Called crypto API","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 19:12:42 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"WS connection stablishedlDxorzk2NzK6mh3DAAAA","level":"info"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"--- Start batch ---","level":"info"}
+{"message":"Server is running","level":"info"}
+{"message":"REDIS:  connection created","level":"info"}
+{"message":"WS connection stablished-9POEb5Yh7BAE4i6AAAA","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:02:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Called crypto API","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:02:51 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"WS connection stablished29BmCJGR_uCeQo3zAAAB","level":"info"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 11 millis)","level":"info"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8490.504755471049","level":"debug"}
+{"message":"[Ethereum]:171.73034607344712","level":"debug"}
+{"message":"[XRP]:0.27009747841012144","level":"debug"}
+{"message":"[Bitcoin Cash]:259.7835458162798","level":"debug"}
+{"message":"[Tether]:0.9005563504347149","level":"debug"}
+{"message":"[Litecoin]:54.01512929226162","level":"debug"}
+{"message":"[EOS]:3.061390948635152","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:03:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:03:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 7 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8495.26235794743","level":"debug"}
+{"message":"[Ethereum]:171.66262881411905","level":"debug"}
+{"message":"[XRP]:0.27002069422572933","level":"debug"}
+{"message":"[Bitcoin Cash]:259.7029084081493","level":"debug"}
+{"message":"[Tether]:0.9000686224575268","level":"debug"}
+{"message":"[Litecoin]:54.03511387130505","level":"debug"}
+{"message":"[EOS]:3.0620035039336826","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"---  START MAIL ---","level":"info"}
+{"message":"Called crypto API","level":"info"}
+{"message":"--- END MAIL --- (in 4 millis)","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:04:05 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Generated: Información sobre  criptomonedas / Cryptocurrency report\nPrueba realizada para bit2me.com / test carried out for bit2me.com\n\nTIMESTAMP\t\t\t\t\tBitcoin\t\t\tEthereum\t\tBitcoin Cash\n---------------------------------------------------------------------------------------------------------------------------------------------\n2019-10-29 19:16:01\t\t\t8426.796988186945\t168.2960263240078\t258.392149370901\n2019-10-29 19:22:01\t\t\t8436.071296658265\t168.4161146654514\t257.9783856299387\n2019-10-29 19:23:01\t\t\t8431.981504907631\t168.5122927297729\t257.9366238112369\n2019-10-29 19:45:02\t\t\t8371.316274370143\t168.83568370112218\t257.18199710868106\n2019-10-29 19:49:01\t\t\t8328.752371103496\t168.12256596268614\t258.6217052384434\n2019-10-29 19:50:01\t\t\t8309.724885181198\t168.13545031312205\t259.393515185236\n2019-10-29 19:51:01\t\t\t8310.608531141226\t168.30560198415677\t260.0101076718522\n2019-10-29 19:52:01\t\t\t8318.92891589588\t168.2582547808077\t259.54179259085265\n2019-10-29 20:43:01\t\t\t8490.504755471049\t171.73034607344712\t259.7835458162798\n2019-10-29 20:44:01\t\t\t8495.26235794743\t171.66262881411905\t259.7029084081493\n","level":"debug"}
+{"message":"Email sent: 250 2.0.0 OK  1572381846 g69sm3876182wme.31 - gsmtp","level":"info"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:04:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:04:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 2 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8498.385993865564","level":"debug"}
+{"message":"[Ethereum]:171.57303188136999","level":"debug"}
+{"message":"[XRP]:0.2698799740516947","level":"debug"}
+{"message":"[Bitcoin Cash]:259.68125957731587","level":"debug"}
+{"message":"[Tether]:0.9006492164064819","level":"debug"}
+{"message":"[Litecoin]:54.06995559191196","level":"debug"}
+{"message":"[EOS]:3.063459420302277","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:05:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:05:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 4 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8486.007411064493","level":"debug"}
+{"message":"[Ethereum]:171.58835557384828","level":"debug"}
+{"message":"[XRP]:0.27001935257137155","level":"debug"}
+{"message":"[Bitcoin Cash]:259.79873850225147","level":"debug"}
+{"message":"[Tether]:0.901127003193162","level":"debug"}
+{"message":"[Litecoin]:53.942124917588544","level":"debug"}
+{"message":"[EOS]:3.06129806250283","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:06:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:06:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"---  START PROCESS ---","level":"info"}
+{"message":"--- END PROCESSS --- (in 5 millis)","level":"info"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Processing crypto data","level":"debug"}
+{"message":"[Bitcoin]:8490.154424171234","level":"debug"}
+{"message":"[Ethereum]:171.53099487889588","level":"debug"}
+{"message":"[XRP]:0.27006331932138716","level":"debug"}
+{"message":"[Bitcoin Cash]:259.70378260475593","level":"debug"}
+{"message":"[Tether]:0.9016900558183901","level":"debug"}
+{"message":"[Litecoin]:53.94343490721479","level":"debug"}
+{"message":"[EOS]:3.0638133746643685","level":"debug"}
+{"message":"End Processing crypto data","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:07:13 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}
+{"message":"Expired!!!!","level":"debug"}
+{"message":"Mongo connection created. Reusing","level":"debug"}
+{"message":"Getting crypto data newer than Tue Oct 29 2019 20:07:43 GMT+0100 (Hora estándar romance)","level":"debug"}
+{"message":"REDIS: Inserting new entry","level":"debug"}
+{"message":"REDIS: Inserted new entry","level":"debug"}

@@ -18,7 +18,7 @@ module.exports={
   currencies:["BTC","ETH","BCH"],
   cron:{
     dataUpdate:"01 * * * * *",
-    mailSend:"* 15 * * * *"
+    mailSend:"05 44 * * * *"
   },
   thirdpartyapi:{
       method: 'GET',
@@ -43,7 +43,7 @@ module.exports={
       }
     },
     from:"vicente.boludavias@gmail.com",
-    to:"errenosaque@gmail.com"
-
+    to:["vicente.boludavias@gmail.com"],
+    title: "INFORMACIÓN DE CRIPTODIVISAS / CRYPTOCURRENCY INFORMATION"
   }
 }

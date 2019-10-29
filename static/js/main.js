@@ -20,8 +20,11 @@ function processJson(obj){
 function generateHTML(currencies){
     var strHTML="";
     currencies.forEach((c) =>{
+        var dt=new Date(c.timestamp).toISOString().
+        replace(/T/, ' ').      // replace T with a space
+        replace(/\..+/, '');
         strHTML+='<tr>'+
-        '<td>'+c.timestamp+'</td>'+
+        '<td>'+dt+'</td>'+
         '<td>'+c.BTC+'</td>'+
         '<td>'+c.ETH+'</td>'+
         '<td>'+c.BCH+'</td>'+

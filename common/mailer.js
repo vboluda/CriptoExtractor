@@ -2,24 +2,25 @@
 
 var nodemailer = require('nodemailer');
 const {mailer} = require("../config");
+var _log=require("./wlogger");
 
 class Mailer{
   constructor(){}
 
-  send(title,body){
+  send(body){
     var transporter = nodemailer.createTransport(mailer.transport);
     var mailOptions = {
       from: mailer.from,
       to: mailer.to,
-      subject: title,
+      subject: mailer.title,
       text: body
     };
 
     transporter.sendMail(mailOptions, function(error, info){
       if (error) {
-        console.log(error);
+        _log.error(error);
       } else {
-        console.log('Email sent: ' + info.response);
+        _log.info('Email sent: ' + info.response);
       }
     });
   }
