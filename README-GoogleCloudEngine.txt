@@ -12,7 +12,7 @@ docker build -t gcr.io/cryptoextractor-257309/crypto .
 gcloud docker -- push gcr.io/cryptoextractor-257309/crypto
 
 kubectl create -f redis-deployment.yaml
-
+kubectl create -f redis-service.yaml
 
 kubectl create -f mongo-deployment.yaml
 kubectl create -f mongo-service.yaml
