@@ -21,9 +21,7 @@ class dataProvider{
                       result.forEach((e)=>{
                         responseData.push(e);
                       }).then((result) =>{
-                        console.log("Response: "+JSON.stringify(responseData));
-                        redis.storeCryptoCache(result).then((r)=>{
-                          console.log("Stored: "+r);
+                          redis.storeCryptoCache(result).then((r)=>{
                           resolve(responseData);
                         },(error) =>{
                             reject(error);

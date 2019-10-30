@@ -14,7 +14,7 @@ class MongoConnector {
     }
 
     async connection(){
-        if(this.mongo){
+        if(this.mongo ){
             _log.debug("Mongo connection created. Reusing");
             return this.mongo;
         }
@@ -22,9 +22,9 @@ class MongoConnector {
         return this.mongo;
     };
 
-    storeCrypto(crypto){
+    async storeCrypto(crypto,callback=function(){}){
         crypto.then(async (result) =>{
-            var conn=await this.connection();
+             var conn=await this.connection();
             _log.debug('Processing crypto data');
             var data=result.data;
             var mongoElement={timestamp:(new Date()),crypto:[]};
@@ -41,7 +41,10 @@ class MongoConnector {
                 }
             });
             var res= conn.db("cryptos").collection("prices").insertOne(mongoElement);
-            _log.debug('End Processing crypto data');
+            _log.debug('End Processing crypto data '+res);
+            res.then((r)=>callback(),(e)=>{
+                //_log.debug('API call error:', err);
+            });;
         },function(err){
             //_log.debug('API call error:', err);
         });
