@@ -15,5 +15,5 @@ const cryptoObj1={"status":{"timestamp":"2019-10-30T19:57:58.509Z","error_code":
     var r=await result.forEach((e)=>{
       responseData.push(e);
     });
-    console.log(JSON.stringify(result.document));
+    console.log(JSON.stringify(result.l));
 })();
