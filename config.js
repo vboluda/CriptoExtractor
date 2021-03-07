@@ -29,7 +29,7 @@ module.exports={
         'convert': 'EUR'
       },
       headers: {
-        'X-CMC_PRO_API_KEY': '21e53404-7214-4b0a-9269-695668b9653a'
+        'X-CMC_PRO_API_KEY': '<API KEY>'
       },
       json: true,
       gzip: true
